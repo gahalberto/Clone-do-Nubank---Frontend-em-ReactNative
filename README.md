@@ -1,6 +1,6 @@
 ## 📸 Capturas de Tela
 
-![Tela Inicial do App](./assets/screen--shot.png)
+<img src="./assets/screenshot.png" alt="Tela Inicial do App" width="300"/>
 
 
 # Nubank App Clone - Frontend
